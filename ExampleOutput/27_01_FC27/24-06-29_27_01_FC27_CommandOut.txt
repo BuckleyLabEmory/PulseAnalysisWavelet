@@ -1,0 +1,5025 @@
+pulse_analysis_main_wavgh
+
+Dbfit length = 17049
+TimeAxis_DCS length = 17049
+Unique TimeAxis_DCS length = 17049
+
+Calculating sampling constants...
+
+DCS sampling frequency is: 19.9999 hz. Or every 0.05 seconds
+ABP sampling frequency is: 124.9986 hz. Or every 0.0080001 seconds
+
+
+Temporally overlapping signals...
+
+The ABP signal starts at 1421.1529 seconds and ends at 2273.5464 seconds for a total length of : 852.3935 seconds or 14.2066 minutes
+The DCS signal starts at 1421.1499 seconds and ends at 2273.5544 seconds for a total length of : 852.4045 seconds or 14.2067 minutes
+The DCS signal starts first by 0.002991
+
+
+Downsampling to a constant frequency...
+
+Downsampling time interval is from 1 to 17049 in 0.05 second intervals.
+Downsample ABP signal at a rate of approximately 6 hz for a sampling rate of 19.9999 hz 
+Downsampling time interval is from 1 to 17049 in 0.05 second intervals.
+Both signals now sampled from t = 1421.1499 to 2273.5544Starting wavelet
+
+Dbfit length = 17049
+TimeAxis_DCS length = 17049
+Unique TimeAxis_DCS length = 17049
+
+Calculating sampling constants...
+
+DCS sampling frequency is: 19.9999 hz. Or every 0.05 seconds
+ABP sampling frequency is: 119.9994 hz. Or every 0.0083334 seconds
+
+
+Temporally overlapping signals...
+
+The ABP signal starts at 1421.1499 seconds and ends at 2273.5544 seconds for a total length of : 852.4045 seconds or 14.2067 minutes
+The DCS signal starts at 1421.1499 seconds and ends at 2273.5544 seconds for a total length of : 852.4045 seconds or 14.2067 minutes
+The ABP signal starts first by 0
+
+
+Downsampling to a constant frequency...
+
+Downsampling time interval is from 1 to 17049 in 0.05 second intervals.
+Downsample ABP signal at a rate of approximately 6 hz for a sampling rate of 19.9999 hz 
+Downsampling time interval is from 1 to 17049 in 0.05 second intervals.
+Both signals now sampled from t = 1421.1499 to 2273.5544Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: True
+Test #5: Any NaNs
+Result: False 
+Result: True - ABP. Interpolating...
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: False 
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: True
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: True
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: bfi pulse: ref pulse is abp and under 10 mmHg
+Result: False
+Test #8: ABP pulse: spikes at t  > 0.6
+Result: False
+Test #9: ABP pulse: negative amplitude
+Result: False
+Test #10: ABP pulse: negative systolic slope - method 1
+Result: False
+Test #11: ABP pulse: diastolic more than 2x onset
+Result: False
+Test #12: ABP pulse: edf greater than mean
+Result: False
+Test #13: ABP pulse: onset greater than mean
+Result: False
+Test #14: ABP pulse: ref pulse is abp and under 10 mmHg
+Result: False
+
+ans =
+
+  1×1 cell array
+
+    {54×68 table}
+
+
+f = 
+
+  Figure (3) with properties:
+
+      Number: 3
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [440 278 560 420]
+       Units: 'pixels'
+
+  Show all properties
+
+
+id =
+
+    'none abp and bfi'
+
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+Test #1: All NaNs
+Test #2: Sequential NaNs
+Result: False
+Test #3: Sequential NaNs
+Result: False
+Test #4: Both first and last NaN
+Result: False
+Result: False
+Test #5: Any NaNs
+Result: False 
+Result: False 
+Test #6: CNAP calibration
+Result: True - CNAP calibration...
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+pulse_mean =
+
+  0×0 empty cell array
+
+Test #1: bfi pulse: spikes at t  > 0.6
+Result: False
+Test #2: bfi pulse: negative amplitude
+Result: False
+Test #3: bfi pulse: negative systolic slope - method 1
+Result: False
+Test #4: bfi pulse: diastolic more than 2x onset
+Result: False
+Test #5: bfi pulse: edf greater than mean
+Result: False
+Test #6: bfi pulse: onset greater than mean
+Result: False
+Test #7: Dbfit_wv pulse: spikes at t  > 0.6
+Result: False
+Test #8: Dbfit_wv pulse: negative amplitude
+Result: False
+Test #9: Dbfit_wv pulse: negative systolic slope - method 1
+Result: False
+Test #10: Dbfit_wv pulse: diastolic more than 2x onset
+Result: False
+Test #11: Dbfit_wv pulse: edf greater than mean
+Result: False
+Test #12: Dbfit_wv pulse: onset greater than mean
+Result: False
+
+ans =
+
+  1×1 cell array
+
+    {56×68 table}
+
+
+f = 
+
+  Figure (4) with properties:
+
+      Number: 4
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [440 278 560 420]
+       Units: 'pixels'
+
+  Show all properties
+
+
+id =
+
+    'none bfi_wv and bfi'
